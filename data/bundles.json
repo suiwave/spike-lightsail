@@ -1,0 +1,484 @@
+{
+    "bundles": [
+        {
+            "price": 5.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 20,
+            "bundleId": "nano_3_0",
+            "instanceType": "nano",
+            "isActive": true,
+            "name": "Nano",
+            "power": 298,
+            "ramSizeInGb": 0.5,
+            "transferPerMonthInGb": 1024,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 7.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 40,
+            "bundleId": "micro_3_0",
+            "instanceType": "micro",
+            "isActive": true,
+            "name": "Micro",
+            "power": 500,
+            "ramSizeInGb": 1.0,
+            "transferPerMonthInGb": 2048,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 12.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 60,
+            "bundleId": "small_3_0",
+            "instanceType": "small",
+            "isActive": true,
+            "name": "Small",
+            "power": 1000,
+            "ramSizeInGb": 2.0,
+            "transferPerMonthInGb": 3072,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 24.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 80,
+            "bundleId": "medium_3_0",
+            "instanceType": "medium",
+            "isActive": true,
+            "name": "Medium",
+            "power": 2000,
+            "ramSizeInGb": 4.0,
+            "transferPerMonthInGb": 4096,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 44.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 160,
+            "bundleId": "large_3_0",
+            "instanceType": "large",
+            "isActive": true,
+            "name": "Large",
+            "power": 3000,
+            "ramSizeInGb": 8.0,
+            "transferPerMonthInGb": 5120,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 84.0,
+            "cpuCount": 4,
+            "diskSizeInGb": 320,
+            "bundleId": "xlarge_3_0",
+            "instanceType": "xlarge",
+            "isActive": true,
+            "name": "Xlarge",
+            "power": 4000,
+            "ramSizeInGb": 16.0,
+            "transferPerMonthInGb": 6144,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 164.0,
+            "cpuCount": 8,
+            "diskSizeInGb": 640,
+            "bundleId": "2xlarge_3_0",
+            "instanceType": "2xlarge",
+            "isActive": true,
+            "name": "2Xlarge",
+            "power": 5000,
+            "ramSizeInGb": 32.0,
+            "transferPerMonthInGb": 7168,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 384.0,
+            "cpuCount": 16,
+            "diskSizeInGb": 1280,
+            "bundleId": "4xlarge_3_0",
+            "instanceType": "4xlarge",
+            "isActive": true,
+            "name": "4Xlarge",
+            "power": 6000,
+            "ramSizeInGb": 64.0,
+            "transferPerMonthInGb": 8192,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 9.5,
+            "cpuCount": 2,
+            "diskSizeInGb": 30,
+            "bundleId": "nano_win_3_0",
+            "instanceType": "nano",
+            "isActive": true,
+            "name": "Nano",
+            "power": 300,
+            "ramSizeInGb": 0.5,
+            "transferPerMonthInGb": 1024,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 14.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 40,
+            "bundleId": "micro_win_3_0",
+            "instanceType": "micro",
+            "isActive": true,
+            "name": "Micro",
+            "power": 500,
+            "ramSizeInGb": 1.0,
+            "transferPerMonthInGb": 2048,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 22.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 60,
+            "bundleId": "small_win_3_0",
+            "instanceType": "small",
+            "isActive": true,
+            "name": "Small",
+            "power": 1000,
+            "ramSizeInGb": 2.0,
+            "transferPerMonthInGb": 3072,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 44.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 80,
+            "bundleId": "medium_win_3_0",
+            "instanceType": "medium",
+            "isActive": true,
+            "name": "Medium",
+            "power": 2000,
+            "ramSizeInGb": 4.0,
+            "transferPerMonthInGb": 4096,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 74.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 160,
+            "bundleId": "large_win_3_0",
+            "instanceType": "large",
+            "isActive": true,
+            "name": "Large",
+            "power": 3000,
+            "ramSizeInGb": 8.0,
+            "transferPerMonthInGb": 5120,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 124.0,
+            "cpuCount": 4,
+            "diskSizeInGb": 320,
+            "bundleId": "xlarge_win_3_0",
+            "instanceType": "xlarge",
+            "isActive": true,
+            "name": "Xlarge",
+            "power": 4000,
+            "ramSizeInGb": 16.0,
+            "transferPerMonthInGb": 6144,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 244.0,
+            "cpuCount": 8,
+            "diskSizeInGb": 640,
+            "bundleId": "2xlarge_win_3_0",
+            "instanceType": "2xlarge",
+            "isActive": true,
+            "name": "2Xlarge",
+            "power": 5000,
+            "ramSizeInGb": 32.0,
+            "transferPerMonthInGb": 7168,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 574.0,
+            "cpuCount": 16,
+            "diskSizeInGb": 1280,
+            "bundleId": "4xlarge_win_3_0",
+            "instanceType": "4xlarge",
+            "isActive": true,
+            "name": "4Xlarge",
+            "power": 6000,
+            "ramSizeInGb": 64.0,
+            "transferPerMonthInGb": 8192,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 3.5,
+            "cpuCount": 2,
+            "diskSizeInGb": 20,
+            "bundleId": "nano_ipv6_3_0",
+            "instanceType": "nano",
+            "isActive": true,
+            "name": "Nano",
+            "power": 298,
+            "ramSizeInGb": 0.5,
+            "transferPerMonthInGb": 1024,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 5.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 40,
+            "bundleId": "micro_ipv6_3_0",
+            "instanceType": "micro",
+            "isActive": true,
+            "name": "Micro",
+            "power": 500,
+            "ramSizeInGb": 1.0,
+            "transferPerMonthInGb": 2048,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 10.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 60,
+            "bundleId": "small_ipv6_3_0",
+            "instanceType": "small",
+            "isActive": true,
+            "name": "Small",
+            "power": 1000,
+            "ramSizeInGb": 2.0,
+            "transferPerMonthInGb": 3072,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 20.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 80,
+            "bundleId": "medium_ipv6_3_0",
+            "instanceType": "medium",
+            "isActive": true,
+            "name": "Medium",
+            "power": 2000,
+            "ramSizeInGb": 4.0,
+            "transferPerMonthInGb": 4096,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 40.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 160,
+            "bundleId": "large_ipv6_3_0",
+            "instanceType": "large",
+            "isActive": true,
+            "name": "Large",
+            "power": 3000,
+            "ramSizeInGb": 8.0,
+            "transferPerMonthInGb": 5120,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 80.0,
+            "cpuCount": 4,
+            "diskSizeInGb": 320,
+            "bundleId": "xlarge_ipv6_3_0",
+            "instanceType": "xlarge",
+            "isActive": true,
+            "name": "Xlarge",
+            "power": 4000,
+            "ramSizeInGb": 16.0,
+            "transferPerMonthInGb": 6144,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 160.0,
+            "cpuCount": 8,
+            "diskSizeInGb": 640,
+            "bundleId": "2xlarge_ipv6_3_0",
+            "instanceType": "2xlarge",
+            "isActive": true,
+            "name": "2Xlarge",
+            "power": 5000,
+            "ramSizeInGb": 32.0,
+            "transferPerMonthInGb": 7168,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 380.0,
+            "cpuCount": 16,
+            "diskSizeInGb": 1280,
+            "bundleId": "4xlarge_ipv6_3_0",
+            "instanceType": "4xlarge",
+            "isActive": true,
+            "name": "4Xlarge",
+            "power": 6000,
+            "ramSizeInGb": 64.0,
+            "transferPerMonthInGb": 8192,
+            "supportedPlatforms": [
+                "LINUX_UNIX"
+            ]
+        },
+        {
+            "price": 8.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 30,
+            "bundleId": "nano_win_ipv6_3_0",
+            "instanceType": "nano",
+            "isActive": true,
+            "name": "Nano",
+            "power": 300,
+            "ramSizeInGb": 0.5,
+            "transferPerMonthInGb": 1024,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 12.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 40,
+            "bundleId": "micro_win_ipv6_3_0",
+            "instanceType": "micro",
+            "isActive": true,
+            "name": "Micro",
+            "power": 500,
+            "ramSizeInGb": 1.0,
+            "transferPerMonthInGb": 2048,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 20.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 60,
+            "bundleId": "small_win_ipv6_3_0",
+            "instanceType": "small",
+            "isActive": true,
+            "name": "Small",
+            "power": 1000,
+            "ramSizeInGb": 2.0,
+            "transferPerMonthInGb": 3072,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 40.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 80,
+            "bundleId": "medium_win_ipv6_3_0",
+            "instanceType": "medium",
+            "isActive": true,
+            "name": "Medium",
+            "power": 2000,
+            "ramSizeInGb": 4.0,
+            "transferPerMonthInGb": 4096,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 70.0,
+            "cpuCount": 2,
+            "diskSizeInGb": 160,
+            "bundleId": "large_win_ipv6_3_0",
+            "instanceType": "large",
+            "isActive": true,
+            "name": "Large",
+            "power": 3000,
+            "ramSizeInGb": 8.0,
+            "transferPerMonthInGb": 5120,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 120.0,
+            "cpuCount": 4,
+            "diskSizeInGb": 320,
+            "bundleId": "xlarge_win_ipv6_3_0",
+            "instanceType": "xlarge",
+            "isActive": true,
+            "name": "Xlarge",
+            "power": 4000,
+            "ramSizeInGb": 16.0,
+            "transferPerMonthInGb": 6144,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 240.0,
+            "cpuCount": 8,
+            "diskSizeInGb": 640,
+            "bundleId": "2xlarge_win_ipv6_3_0",
+            "instanceType": "2xlarge",
+            "isActive": true,
+            "name": "2Xlarge",
+            "power": 5000,
+            "ramSizeInGb": 32.0,
+            "transferPerMonthInGb": 7168,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        },
+        {
+            "price": 570.0,
+            "cpuCount": 16,
+            "diskSizeInGb": 1280,
+            "bundleId": "4xlarge_win_ipv6_3_0",
+            "instanceType": "4xlarge",
+            "isActive": true,
+            "name": "4Xlarge",
+            "power": 6000,
+            "ramSizeInGb": 64.0,
+            "transferPerMonthInGb": 8192,
+            "supportedPlatforms": [
+                "WINDOWS"
+            ]
+        }
+    ]
+}
